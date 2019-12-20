@@ -1,0 +1,11 @@
+by\myioc\dev\ComponentFactory.class
+by\myioc\dev\AppContextJavaBaseConfig.class
+by\myioc\dev\annotation\Qualifier.class
+by\myioc\dev\annotation\ComponentScan.class
+by\myioc\dev\annotation\Prototype.class
+by\myioc\dev\annotation\Create.class
+by\myioc\dev\annotation\Component.class
+by\myioc\dev\annotation\Init.class
+by\myioc\dev\annotation\Value.class
+by\myioc\dev\annotation\Destroy.class
+by\myioc\dev\AppContext.class
